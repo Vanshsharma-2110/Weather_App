@@ -89,7 +89,7 @@ Update your API endpoint and key inside the script.
 ## 🌍 Live Demo
 If deployed, put your link here:
 
-👉 **[Try the Live Weather App](#)**
+👉 **[Try the Live Weather App](https://weatherapp-7dwahsgzkewlcxsqczhsvi.streamlit.app/)**
 
 ---
 

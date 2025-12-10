@@ -6,7 +6,7 @@ A sleek, modern **weather dashboard** built with **Streamlit** and powered by a 
 ## 📸 Preview
 Add a screenshot of your app here:
 
-![App Preview](screenshot.png)
+![App Preview](preview.png)
 
 ---
 

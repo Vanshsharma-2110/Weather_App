@@ -4,7 +4,6 @@ A sleek, modern **weather dashboard** built with **Streamlit** and powered by a 
 ---
 
 ## 📸 Preview
-Add a screenshot of your app here:
 
 ![App Preview](preview.png)
 
@@ -82,12 +81,9 @@ streamlit run app.py
 
 ## 🔐 API Usage
 This project requires an API key from your preferred weather service (OpenWeather, WeatherAPI, etc.).  
-Update your API endpoint and key inside the script.
-
 ---
 
 ## 🌍 Live Demo
-If deployed, put your link here:
 
 👉 **[Try the Live Weather App](https://weatherapp-7dwahsgzkewlcxsqczhsvi.streamlit.app/)**
 
@@ -96,11 +92,6 @@ If deployed, put your link here:
 ## 🤝 Contributing
 Contributions are welcome!  
 Open issues or submit PRs for improvements.
-
----
-
-## 📄 License
-Licensed under the **MIT License**.
 
 ---
 
